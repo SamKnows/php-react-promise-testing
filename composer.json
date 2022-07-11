@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "react/promise": "^2.8",
         "phpunit/phpunit": "^9.5",
         "phpunit/php-code-coverage": "^9.2",
